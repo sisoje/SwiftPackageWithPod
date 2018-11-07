@@ -1,2 +1,2 @@
 # SwiftPackageWithPod
-Swift Package with Cocoapod
+SwiftPackageWithPod is a Swift Package with Cocoapod
