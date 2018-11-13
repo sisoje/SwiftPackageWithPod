@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
     s.name             = 'SwiftPackageWithPod'
     s.version          = '1.0.0'
-    s.summary          = 'More control when adding block to operation queue.'
+    s.summary          = 'Enables swift package and pod togehter.'
 
     s.description      = <<-DESC
-    OperationsKit provides more control when adding block to OperationQueue. Also adds BlockOperation initializer.
+    SwiftPackageWithPod provides template for SPM and COCOAPOD.
                        DESC
 
     s.homepage         = "https://github.com/sisoje/#{s.name}"
